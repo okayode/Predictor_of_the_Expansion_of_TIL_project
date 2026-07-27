@@ -4,21 +4,6 @@ One major advance in treating solid tumors is the success of adoptive cell thera
 
 PETIL is a tool that can first learn from patient and tumor data already collected in the clinic (local data) which data features are important for predicting TIL expansion, without the need to predefine which data categories to consider. Then, this tool predicts a possible TIL expansion for individual patients (personalized predictions), allowing to determine whether ACTTIL therapy could potentially treat an individual bladder cancer patient.
 
-
-## PETIL needs the following libraries
-
-```bash
-numpy
-sklearn
-matplotlib
-seaborn
-pandas
-tensorflow
-statsmodels
-scipy
-```
-
-
 ## Repository structure
 ```text
 .
