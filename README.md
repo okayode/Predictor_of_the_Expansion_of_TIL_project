@@ -8,7 +8,7 @@ PETIL is a tool that can first learn from patient and tumor data already collect
 ```text
 .
 ├── 01_Data_summary.ipynb          # Exploratory analysis and dataset summary
-├── 02_Data_table.ipynb            # Generate descriptive tables
+├── 02_Data_table.ipynb            # Generate descriptive table
 ├── 03_norm.ipynb                  # Data preprocessing and normalization
 ├── 04a_midas_train.ipynb          # MIDAS imputation on training cohort
 ├── 04b_midas_test.ipynb           # MIDAS imputation on testing cohort
