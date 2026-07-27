@@ -24,18 +24,17 @@ scipy
 PETIL is implemented in the following order:
 
 01_Data_summary.ipynb  
-01b_Data_summary_cli_Trl.ipynb  
 02_Data_table.ipynb  
-02b_Data_table_cli_Trl.ipynb  
-03_norm.ipynb  
-03b_norm_cli_Trl.ipynb  
-04_midas_train.ipynb  
+03_norm.ipynb   
+04a_midas_train.ipynb  
 04b_midas_test.ipynb  
+04c_Imputation_analysis.ipynb  
 05_MI.ipynb  
 06_p_corr.ipynb  
-07_adeq_smplSz.ipynb  
-08_FFS.ipynb  
-09_MCC_RBF_SVM.ipynb
+07a_FFS.ipynb  
+07b_adeq_smplSz.ipynb  
+07c_Stab_FeatSelection.ipynb  
+08_MCC_RBF_SVM.ipynb
 
 
 ## Authors
