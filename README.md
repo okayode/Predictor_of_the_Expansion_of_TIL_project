@@ -44,7 +44,7 @@ scipy
 ├── midas_test/                    # Imputed testing datasets
 ├── tmp/                           # MIDAS checkpoints
 │
-├── py_libraries.py                # Common library imports
+├── py_libraries.py                # Python library imports
 ├── README.md                      # Project documentation
 └── Feature_Distri.ipynb           # Distribution plots for selected features
 ```
